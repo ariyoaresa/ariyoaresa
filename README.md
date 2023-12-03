@@ -12,3 +12,5 @@
 - 📫 How to reach me: ariyoaresa89@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started website development February 2022
+
+[![An image of @ariyoaresa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ariyoaresa)](https://holopin.io/@ariyoaresa)
