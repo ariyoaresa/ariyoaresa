@@ -14,6 +14,8 @@
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariyoaresa&hide_progress=true)
 
+<a href="https://stardev.io/developers/ariyoaresa"><img alt="Check out ariyoaresa's profile on stardev.io" src="https://stardev.io/developers/ariyoaresa/badge/languages/country.svg" /></a>
+
 ![An image of @ariyoaresa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ariyoaresa)
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
